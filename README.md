@@ -6,6 +6,8 @@ Generate cryptographically secure JWT secret keys and signing material — in No
 >
 > Need to generate a key right now, without installing anything? Use the free browser-based **[JWT Secret Key Generator](https://jwtsecrets.com/)** — it runs fully client-side and never transmits your key.
 
+📖 **Read the full guide:** [How to Generate a Secure JWT Secret Key in 2026 (Node.js, Python, Java)](https://dev.to/chubiao_huangmrhuang_/how-to-generate-a-secure-jwt-secret-key-in-2026-nodejs-python-java-5a7d) — covers key length per algorithm, using the secret in `jsonwebtoken` and PyJWT, the three mistakes that leak a secret, and symmetric vs. asymmetric key choice.
+
 ## What you get
 
 | Language | File | CSPRNG used |
