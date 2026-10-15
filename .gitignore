@@ -1,0 +1,5 @@
+.env
+*.class
+secret.txt
+/tmp/
+__pycache__/
